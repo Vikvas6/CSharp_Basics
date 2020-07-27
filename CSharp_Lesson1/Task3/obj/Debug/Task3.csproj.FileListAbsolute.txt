@@ -1,0 +1,13 @@
+C:\Users\Viktor\source\repos\C_Sharp_Lesson1\Task3\bin\Debug\Task3.exe.config
+C:\Users\Viktor\source\repos\C_Sharp_Lesson1\Task3\bin\Debug\Task3.exe
+C:\Users\Viktor\source\repos\C_Sharp_Lesson1\Task3\bin\Debug\Task3.pdb
+C:\Users\Viktor\source\repos\C_Sharp_Lesson1\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\C_Sharp_Lesson1\Task3\obj\Debug\Task3.exe
+C:\Users\Viktor\source\repos\C_Sharp_Lesson1\Task3\obj\Debug\Task3.pdb
+C:\Users\Viktor\source\repos\CSharp_Basics\CSharp_Lesson1\Task3\bin\Debug\Task3.exe.config
+C:\Users\Viktor\source\repos\CSharp_Basics\CSharp_Lesson1\Task3\bin\Debug\Task3.exe
+C:\Users\Viktor\source\repos\CSharp_Basics\CSharp_Lesson1\Task3\bin\Debug\Task3.pdb
+C:\Users\Viktor\source\repos\CSharp_Basics\CSharp_Lesson1\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\CSharp_Basics\CSharp_Lesson1\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\CSharp_Basics\CSharp_Lesson1\Task3\obj\Debug\Task3.exe
+C:\Users\Viktor\source\repos\CSharp_Basics\CSharp_Lesson1\Task3\obj\Debug\Task3.pdb
