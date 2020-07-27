@@ -1,0 +1,6 @@
+C:\Users\Viktor\source\repos\C_Sharp_Lesson1\Task5\bin\Debug\Task5.exe.config
+C:\Users\Viktor\source\repos\C_Sharp_Lesson1\Task5\bin\Debug\Task5.exe
+C:\Users\Viktor\source\repos\C_Sharp_Lesson1\Task5\bin\Debug\Task5.pdb
+C:\Users\Viktor\source\repos\C_Sharp_Lesson1\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\C_Sharp_Lesson1\Task5\obj\Debug\Task5.exe
+C:\Users\Viktor\source\repos\C_Sharp_Lesson1\Task5\obj\Debug\Task5.pdb
