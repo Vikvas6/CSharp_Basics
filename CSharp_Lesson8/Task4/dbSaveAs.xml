@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfDictionaryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DictionaryEntry>
+    <word>Initial</word>
+    <translation>Начальный</translation>
+  </DictionaryEntry>
+  <DictionaryEntry>
+    <word>Dog</word>
+    <translation>Собака</translation>
+  </DictionaryEntry>
+  <DictionaryEntry>
+    <word>Cat</word>
+    <translation>Кошка</translation>
+  </DictionaryEntry>
+  <DictionaryEntry>
+    <word>Key</word>
+    <translation>Ключ</translation>
+  </DictionaryEntry>
+  <DictionaryEntry>
+    <word>Sky</word>
+    <translation>Небо</translation>
+  </DictionaryEntry>
+  <DictionaryEntry>
+    <word>Mage</word>
+    <translation>Маг</translation>
+  </DictionaryEntry>
+  <DictionaryEntry>
+    <word>New</word>
+    <translation>Новый</translation>
+  </DictionaryEntry>
+</ArrayOfDictionaryEntry>
